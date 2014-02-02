@@ -1,0 +1,14 @@
+{
+	"name": "pgViewManager",
+	"repo": "Wizcorp/phonegap-wrapper-ViewManager",
+	"description": "Wrapper for native UIWebView, and message through views",
+	"version": "0.1.0",
+	"dependencies": {
+		"component/inherit": "*",
+		"Wizcorp/eventemitter": "*"
+	},
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
